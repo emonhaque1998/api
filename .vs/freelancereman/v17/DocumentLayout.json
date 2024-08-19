@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eman H\\source\\repos\\freelancereman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E944CC7E-3421-45E2-9BBE-DC5ABC553BA1}|freelancereman\\freelancereman.csproj|c:\\users\\eman h\\source\\repos\\freelancereman\\freelancereman\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E944CC7E-3421-45E2-9BBE-DC5ABC553BA1}|freelancereman\\freelancereman.csproj|solutionrelative:freelancereman\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E944CC7E-3421-45E2-9BBE-DC5ABC553BA1}|freelancereman\\freelancereman.csproj|c:\\users\\eman h\\source\\repos\\freelancereman\\freelancereman\\models\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E944CC7E-3421-45E2-9BBE-DC5ABC553BA1}|freelancereman\\freelancereman.csproj|solutionrelative:freelancereman\\models\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E944CC7E-3421-45E2-9BBE-DC5ABC553BA1}|freelancereman\\freelancereman.csproj|c:\\users\\eman h\\source\\repos\\freelancereman\\freelancereman\\models\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E944CC7E-3421-45E2-9BBE-DC5ABC553BA1}|freelancereman\\freelancereman.csproj|solutionrelative:freelancereman\\models\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E944CC7E-3421-45E2-9BBE-DC5ABC553BA1}|freelancereman\\freelancereman.csproj|c:\\users\\eman h\\source\\repos\\freelancereman\\freelancereman\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E944CC7E-3421-45E2-9BBE-DC5ABC553BA1}|freelancereman\\freelancereman.csproj|solutionrelative:freelancereman\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Eman H\\source\\repos\\freelancereman\\freelancereman\\Models\\ProjectDTO.cs",
+              "RelativeDocumentMoniker": "freelancereman\\Models\\ProjectDTO.cs",
+              "ToolTip": "C:\\Users\\Eman H\\source\\repos\\freelancereman\\freelancereman\\Models\\ProjectDTO.cs",
+              "RelativeToolTip": "freelancereman\\Models\\ProjectDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:54:11.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Eman H\\source\\repos\\freelancereman\\freelancereman\\Models\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "freelancereman\\Models\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\Eman H\\source\\repos\\freelancereman\\freelancereman\\Models\\ProjectRepository.cs",
+              "RelativeToolTip": "freelancereman\\Models\\ProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:45:36.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Eman H\\source\\repos\\freelancereman\\freelancereman\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "freelancereman\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Eman H\\source\\repos\\freelancereman\\freelancereman\\Models\\Project.cs",
+              "RelativeToolTip": "freelancereman\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:34:58.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Eman H\\source\\repos\\freelancereman\\freelancereman\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "freelancereman\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\Eman H\\source\\repos\\freelancereman\\freelancereman\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "freelancereman\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:29:17.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
